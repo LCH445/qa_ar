@@ -5,5 +5,13 @@ QA Fundamentals
 3. Ранее тестирование - самое дешёвое;
 4. Скопление дефектов (в небольшом количестве модулей сконцентрировано большая часть ошибок - правило Парето в контесте тестирования);
 5. Парадокс пестицида (старые тесты работают всё хуже с каждой итерацией);
-6. Тестирование зависимостей от контекста;
+6. Тестирование в зависимости от контекста;
 7. Заблуждение об отсутствии ошибок;
+
+1. Testing shows presence of defects;
+2. Exhaustive testing is not possible;
+3. Early testing;
+4. Defect clustering;
+5. Pesticide paradox;
+6. Testing is context dependent;
+7. Absence of errors fallacy;
